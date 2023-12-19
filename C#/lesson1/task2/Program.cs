@@ -11,8 +11,11 @@ double sum3 = d1 + l1;
 double product1 = l1 * d1;
 double product2 = sum3 * d1;
 
+double  quostian = l1 / i1 / 10;
+
 Console.WriteLine(sum);
 Console.WriteLine(sum2);
 Console.WriteLine(sum3);
 Console.WriteLine(product1);
 Console.WriteLine(product2);
+Console.WriteLine(quostian);
