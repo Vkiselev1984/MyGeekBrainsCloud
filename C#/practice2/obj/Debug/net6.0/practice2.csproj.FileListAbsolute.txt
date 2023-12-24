@@ -1,0 +1,15 @@
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\bin\Debug\net6.0\practice2.exe
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\bin\Debug\net6.0\practice2.deps.json
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\bin\Debug\net6.0\practice2.runtimeconfig.json
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\bin\Debug\net6.0\practice2.dll
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\bin\Debug\net6.0\practice2.pdb
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\obj\Debug\net6.0\practice2.csproj.AssemblyReference.cache
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\obj\Debug\net6.0\practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\obj\Debug\net6.0\practice2.AssemblyInfoInputs.cache
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\obj\Debug\net6.0\practice2.AssemblyInfo.cs
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\obj\Debug\net6.0\practice2.csproj.CoreCompileInputs.cache
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\obj\Debug\net6.0\practice2.dll
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\obj\Debug\net6.0\refint\practice2.dll
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\obj\Debug\net6.0\practice2.pdb
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\obj\Debug\net6.0\practice2.genruntimeconfig.cache
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\practice2\obj\Debug\net6.0\ref\practice2.dll
