@@ -1,6 +1,7 @@
 ﻿using System;
 
 public class Answer {
+   // Большее из двух чисел
     static void CompareNumbers(int firstNumber, int secondNumber)
     {
         if (firstNumber == secondNumber)
