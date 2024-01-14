@@ -1,0 +1,15 @@
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\bin\Debug\net6.0\sorting.exe
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\bin\Debug\net6.0\sorting.deps.json
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\bin\Debug\net6.0\sorting.runtimeconfig.json
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\bin\Debug\net6.0\sorting.dll
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\bin\Debug\net6.0\sorting.pdb
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\obj\Debug\net6.0\sorting.csproj.AssemblyReference.cache
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\obj\Debug\net6.0\sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\obj\Debug\net6.0\sorting.AssemblyInfoInputs.cache
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\obj\Debug\net6.0\sorting.AssemblyInfo.cs
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\obj\Debug\net6.0\sorting.csproj.CoreCompileInputs.cache
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\obj\Debug\net6.0\sorting.dll
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\obj\Debug\net6.0\refint\sorting.dll
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\obj\Debug\net6.0\sorting.pdb
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\obj\Debug\net6.0\sorting.genruntimeconfig.cache
+C:\Users\kiselev\MyProjects\MyGeekBrainsCloud\C#\arrays\sorting\obj\Debug\net6.0\ref\sorting.dll
