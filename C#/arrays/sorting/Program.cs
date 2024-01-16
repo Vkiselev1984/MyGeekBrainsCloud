@@ -16,7 +16,7 @@ class Program
         Console.WriteLine("Результат выполнения:");
         foreach (int num in numbers)
         {
-            Console.Write(num + " ");
+            Console.Write(num + "\t");
         }
 
         // Веременная num не требуется предварительного объявления в коде до использования в цикле foreach. 
