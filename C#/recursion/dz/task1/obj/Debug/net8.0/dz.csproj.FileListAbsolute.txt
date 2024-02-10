@@ -1,0 +1,15 @@
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\bin\Debug\net8.0\dz.exe
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\bin\Debug\net8.0\dz.deps.json
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\bin\Debug\net8.0\dz.runtimeconfig.json
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\bin\Debug\net8.0\dz.dll
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\bin\Debug\net8.0\dz.pdb
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\obj\Debug\net8.0\dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\obj\Debug\net8.0\dz.AssemblyInfoInputs.cache
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\obj\Debug\net8.0\dz.AssemblyInfo.cs
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\obj\Debug\net8.0\dz.csproj.CoreCompileInputs.cache
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\obj\Debug\net8.0\dz.sourcelink.json
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\obj\Debug\net8.0\dz.dll
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\obj\Debug\net8.0\refint\dz.dll
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\obj\Debug\net8.0\dz.pdb
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\obj\Debug\net8.0\dz.genruntimeconfig.cache
+C:\Users\kiselev\Desktop\MyGeekBrainsCloud\C#\recursion\dz\task1\obj\Debug\net8.0\ref\dz.dll
