@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("finalCcontrolWork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ccf85b2cd6d16b4fd7582c8255d2aadbad0d367")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3169570241a71ddf0b8d528028f15bba4a702515")]
 [assembly: System.Reflection.AssemblyProductAttribute("finalCcontrolWork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("finalCcontrolWork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

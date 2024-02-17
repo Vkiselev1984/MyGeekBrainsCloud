@@ -26,5 +26,26 @@ static void UserInput(string[] array, int index)
             UserInput(array, index);
         }
     }  
+     static void FillMatrixFromArr(string[] array, string[,] matrix)
+    {
+        int rows = matrix.GetLength(0);
+        int cols = matrix.GetLength(1);
+        int index = 0;
+        for (int i = 0; i < rows; i++)
+        {
+            for (int j = 0; j < cols; j++)
+            {
+                if (index < array.Length)
+                {
+                    matrix[i, j] = array[index];
+                    index++;
+                }
+                else
+                {
+                    break;
+                }
+            }
+        }
+    }
     }
 }
