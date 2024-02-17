@@ -47,5 +47,19 @@ static void UserInput(string[] array, int index)
             }
         }
     }
+     static void PrintMatrix(string[,] matrix)
+    {
+        int rows = matrix.GetLength(0);
+        int cols = matrix.GetLength(1);
+        for (int i = 0; i < rows; i++)
+        {
+            Console.Write($" {matrix[i, 0]}\t");
+            for (int j = 1; j < cols; j++)
+            {
+                Console.Write($" {matrix[i, j]}\t");
+            }
+            Console.WriteLine();
+        }
+    }
     }
 }
