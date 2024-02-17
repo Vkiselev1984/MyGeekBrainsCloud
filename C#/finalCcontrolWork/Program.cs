@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-                string[] array = new string[4];
+        string[] array = new string[4];
         UserInput(array, 0);
         int rows = array.Length;
         int cols = rows / 2;
@@ -25,7 +25,7 @@ class Program
         if (input.Length <= 3)
         {
             array[index] = input;
-            UserInput(array, index + 1);
+            UserInput(array, index +1);
         }
         else
         {
