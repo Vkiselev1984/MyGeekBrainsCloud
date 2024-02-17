@@ -4,10 +4,17 @@ class Program
 {
     static void Main()
     {
-string[] array = new string[4];
-UserInput(array, 0);
+                string[] array = new string[4];
+        UserInput(array, 0);
+        int rows = array.Length;
+        int cols = rows / 2;
+        string[,] matrix = new string[rows, cols];
+        FillMatrixFromArr(array, matrix);
+        Console.WriteLine("Полученные данные: ");
+        PrintMatrix(matrix);
+    }
 
-static void UserInput(string[] array, int index)
+    static void UserInput(string[] array, int index)
     {
         if (index >= array.Length)
         {
@@ -25,8 +32,9 @@ static void UserInput(string[] array, int index)
             Console.WriteLine("Внимание: Длина введенных вами данных превышает допустимое количество символов. Попробуйте еще раз");
             UserInput(array, index);
         }
-    }  
-     static void FillMatrixFromArr(string[] array, string[,] matrix)
+    }
+
+    static void FillMatrixFromArr(string[] array, string[,] matrix)
     {
         int rows = matrix.GetLength(0);
         int cols = matrix.GetLength(1);
@@ -47,7 +55,8 @@ static void UserInput(string[] array, int index)
             }
         }
     }
-     static void PrintMatrix(string[,] matrix)
+
+    static void PrintMatrix(string[,] matrix)
     {
         int rows = matrix.GetLength(0);
         int cols = matrix.GetLength(1);
@@ -60,6 +69,5 @@ static void UserInput(string[] array, int index)
             }
             Console.WriteLine();
         }
-    }
     }
 }
