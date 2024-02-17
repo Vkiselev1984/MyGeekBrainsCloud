@@ -1,0 +1,15 @@
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\obj\Debug\net8.0\finalCcontrolWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\obj\Debug\net8.0\finalCcontrolWork.AssemblyInfoInputs.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\obj\Debug\net8.0\finalCcontrolWork.AssemblyInfo.cs
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\obj\Debug\net8.0\finalCcontrolWork.csproj.CoreCompileInputs.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\obj\Debug\net8.0\finalCcontrolWork.sourcelink.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\bin\Debug\net8.0\finalCcontrolWork.exe
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\bin\Debug\net8.0\finalCcontrolWork.deps.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\bin\Debug\net8.0\finalCcontrolWork.runtimeconfig.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\bin\Debug\net8.0\finalCcontrolWork.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\bin\Debug\net8.0\finalCcontrolWork.pdb
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\obj\Debug\net8.0\finalCcontrolWork.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\obj\Debug\net8.0\refint\finalCcontrolWork.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\obj\Debug\net8.0\finalCcontrolWork.pdb
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\obj\Debug\net8.0\finalCcontrolWork.genruntimeconfig.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\C#\finalCcontrolWork\obj\Debug\net8.0\ref\finalCcontrolWork.dll
