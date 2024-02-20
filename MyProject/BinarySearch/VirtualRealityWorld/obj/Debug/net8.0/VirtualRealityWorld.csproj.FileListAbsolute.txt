@@ -1,0 +1,15 @@
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\bin\Debug\net8.0\VirtualRealityWorld.exe
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\bin\Debug\net8.0\VirtualRealityWorld.deps.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\bin\Debug\net8.0\VirtualRealityWorld.runtimeconfig.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\bin\Debug\net8.0\VirtualRealityWorld.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\bin\Debug\net8.0\VirtualRealityWorld.pdb
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\obj\Debug\net8.0\VirtualRealityWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\obj\Debug\net8.0\VirtualRealityWorld.AssemblyInfoInputs.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\obj\Debug\net8.0\VirtualRealityWorld.AssemblyInfo.cs
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\obj\Debug\net8.0\VirtualRealityWorld.csproj.CoreCompileInputs.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\obj\Debug\net8.0\VirtualRealityWorld.sourcelink.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\obj\Debug\net8.0\VirtualRealityWorld.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\obj\Debug\net8.0\refint\VirtualRealityWorld.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\obj\Debug\net8.0\VirtualRealityWorld.pdb
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\obj\Debug\net8.0\VirtualRealityWorld.genruntimeconfig.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\VirtualRealityWorld\obj\Debug\net8.0\ref\VirtualRealityWorld.dll

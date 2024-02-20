@@ -1,0 +1,15 @@
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\bin\Debug\net8.0\ShoesOnlineMagazine.exe
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\bin\Debug\net8.0\ShoesOnlineMagazine.deps.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\bin\Debug\net8.0\ShoesOnlineMagazine.runtimeconfig.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\bin\Debug\net8.0\ShoesOnlineMagazine.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\bin\Debug\net8.0\ShoesOnlineMagazine.pdb
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\obj\Debug\net8.0\ShoesOnlineMagazine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\obj\Debug\net8.0\ShoesOnlineMagazine.AssemblyInfoInputs.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\obj\Debug\net8.0\ShoesOnlineMagazine.AssemblyInfo.cs
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\obj\Debug\net8.0\ShoesOnlineMagazine.csproj.CoreCompileInputs.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\obj\Debug\net8.0\ShoesOnlineMagazine.sourcelink.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\obj\Debug\net8.0\ShoesOnlineMagazine.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\obj\Debug\net8.0\refint\ShoesOnlineMagazine.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\obj\Debug\net8.0\ShoesOnlineMagazine.pdb
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\obj\Debug\net8.0\ShoesOnlineMagazine.genruntimeconfig.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\ShoesOnlineMagazine\obj\Debug\net8.0\ref\ShoesOnlineMagazine.dll

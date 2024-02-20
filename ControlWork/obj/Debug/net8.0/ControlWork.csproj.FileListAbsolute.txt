@@ -1,0 +1,15 @@
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\obj\Debug\net8.0\ControlWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\obj\Debug\net8.0\ControlWork.AssemblyInfoInputs.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\obj\Debug\net8.0\ControlWork.AssemblyInfo.cs
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\obj\Debug\net8.0\ControlWork.csproj.CoreCompileInputs.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\obj\Debug\net8.0\ControlWork.sourcelink.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\bin\Debug\net8.0\ControlWork.exe
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\bin\Debug\net8.0\ControlWork.deps.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\bin\Debug\net8.0\ControlWork.runtimeconfig.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\bin\Debug\net8.0\ControlWork.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\bin\Debug\net8.0\ControlWork.pdb
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\obj\Debug\net8.0\ControlWork.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\obj\Debug\net8.0\refint\ControlWork.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\obj\Debug\net8.0\ControlWork.pdb
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\obj\Debug\net8.0\ControlWork.genruntimeconfig.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\ControlWork\obj\Debug\net8.0\ref\ControlWork.dll

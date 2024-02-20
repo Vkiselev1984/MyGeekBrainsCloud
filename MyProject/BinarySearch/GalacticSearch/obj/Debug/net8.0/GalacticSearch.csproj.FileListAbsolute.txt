@@ -1,0 +1,15 @@
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\bin\Debug\net8.0\GalacticSearch.exe
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\bin\Debug\net8.0\GalacticSearch.deps.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\bin\Debug\net8.0\GalacticSearch.runtimeconfig.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\bin\Debug\net8.0\GalacticSearch.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\bin\Debug\net8.0\GalacticSearch.pdb
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\obj\Debug\net8.0\GalacticSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\obj\Debug\net8.0\GalacticSearch.AssemblyInfoInputs.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\obj\Debug\net8.0\GalacticSearch.AssemblyInfo.cs
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\obj\Debug\net8.0\GalacticSearch.csproj.CoreCompileInputs.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\obj\Debug\net8.0\GalacticSearch.sourcelink.json
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\obj\Debug\net8.0\GalacticSearch.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\obj\Debug\net8.0\refint\GalacticSearch.dll
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\obj\Debug\net8.0\GalacticSearch.pdb
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\obj\Debug\net8.0\GalacticSearch.genruntimeconfig.cache
+C:\Users\kiselev\Desktop\MuGit\MyGeekBrainsCloud\MyProject\BinarySearch\GalacticSearch\obj\Debug\net8.0\ref\GalacticSearch.dll
