@@ -6,14 +6,8 @@ class Program
     {
         Console.Clear();
         Console.WriteLine("Введите элементы массива через пробел:");
-        string input = Console.ReadLine()!;
-        string[] inputArray = input.Split(' ');
-        Console.WriteLine("Новый массив:");
-        foreach (string item in inputArray)
-        {
-            Console.WriteLine(item);
-        }
-        Console.WriteLine("Отфильтрованный массив:");
+        string[] inputArray = Console.ReadLine()!.Split(' ');
+        Console.WriteLine("Отфильтрованный массив строк, длинной менее 3 символов:");
         string[] filteredArray = FilterArray(inputArray);
         foreach (string item in filteredArray)
         {
@@ -22,28 +16,27 @@ class Program
     }
 
     static string[] FilterArray(string[] inputArray)
+{
+    int count = 0;
+    for (int i = 0; i < inputArray.Length; i++)
     {
-        
-        int count = 0;
-        foreach (string item in inputArray)
+        if (inputArray[i].Length <= 3)
         {
-            if (item.Length <= 3)
-            {
-                count++;
-            }
+            count++;
         }
-        
-        string[] resultArray = new string[count];
-        int index = 0;
-        foreach (string item in inputArray)
-        {
-            if (item.Length <= 3)
-            {
-                resultArray[index] = item;
-                index++;
-            }
-        }
-
-        return resultArray;        
     }
+
+    string[] resultArray = new string[count];
+    int index = 0;
+
+    for (int i = 0; i < inputArray.Length; i++)
+    {
+        if (inputArray[i].Length <= 3)
+        {
+            resultArray[index++] = inputArray[i];
+        }
+    }
+
+    return resultArray;
+}
 }
