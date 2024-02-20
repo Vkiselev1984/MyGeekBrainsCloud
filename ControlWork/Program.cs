@@ -13,6 +13,12 @@ class Program
         {
             Console.WriteLine(item);
         }
+        Console.WriteLine("Отфильтрованный массив:");
+        string[] filteredArray = FilterArray(inputArray);
+        foreach (string item in filteredArray)
+        {
+            Console.WriteLine(item);
+        }
     }
 
     static string[] FilterArray(string[] inputArray)
